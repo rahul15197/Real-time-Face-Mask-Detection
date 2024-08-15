@@ -1,6 +1,8 @@
 # Real time Face Mask Detection
 ML Classwork Project
 
+https://github.com/user-attachments/assets/269e565e-5376-402e-a669-f6704cf9fdfb
+
 The project aims at developing a solution in the current time of pandemic going on in the world.
 
 Masks are one of the most important protection and preventive measures a person must take to be safe from COVID-19.
@@ -10,3 +12,5 @@ A system is proposed using state-of-the-art architectures MobileNetV2 and ResNet
 The final accuracy of the model is 95% with an f1 score of 0.95.
 
 Project GUI was also developed and deployed on the Streamlit platform. It works on both mobile and desktop devices.
+
+
