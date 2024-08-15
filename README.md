@@ -13,4 +13,6 @@ The final accuracy of the model is 95% with an f1 score of 0.95.
 
 Project GUI was also developed and deployed on the Streamlit platform. It works on both mobile and desktop devices.
 
+Was awarded one of the best Machine Learning Project in my ML batch.
+
 
